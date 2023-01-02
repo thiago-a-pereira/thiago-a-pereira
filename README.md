@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thiago Araújo Pereira. I'm 27 years old, a brazilian that was born in Minas Gerais, but living in Goiânia.
+- 👋 Hi, I’m Thiago Araújo Pereira. I'm a brazilian that was born in Minas Gerais, but living in Goiânia.
 - 👀 I’m interested in FullStack Development.
 - 🌱 I’m currently learning Java, Python, CSS, HTML, Javascript and everything I need to become a great developer.
 - 📫 You can find me in www.linkedin.com/in/thiagoaraujopgo
